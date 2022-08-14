@@ -3,7 +3,6 @@
 
 from selenium.webdriver.common.by import By
 import time
-from selenium.common.exceptions import WebDriverException
 
 def test_button_present(browser):
     link = "https://selenium1py.pythonanywhere.com/catalogue/coders-at-work_207/"
