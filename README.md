@@ -1,4 +1,4 @@
-# testLang 
+# testLanguage
 
 This repository stores files required to test localization of web applications using Selenium WebDriver and pytest.
 
